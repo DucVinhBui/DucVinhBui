@@ -10,6 +10,12 @@ I build end-to-end AI products—from data ingestion and machine-learning pipeli
 
 ## Featured Projects
 
+### [PMI Feature Selection Research](https://github.com/DucVinhBui/pmi-feature-selection)
+
+A reproducible implementation of my honours research into higher-order pointwise mutual information for filter feature selection, including bootstrap LASSO-Stab relevance and the redundancy-aware Greedy LASSO selector.
+
+`Python` `Information Theory` `Feature Selection` `LASSO` `scikit-learn` `Statistical Evaluation`
+
 ### [InsightOps AI](https://github.com/DucVinhBui/AI_Analyst_Platform)
 
 An autonomous business intelligence platform combining tool-based AI agents, natural-language analytics, forecasting, churn prediction, anomaly detection, and human-approved actions.
@@ -24,7 +30,7 @@ A full-stack RAG application for asking questions about PDFs, with vector retrie
 
 ## Honours Research
 
-### Evaluating Higher-Order Pointwise Mutual Information for Filter Feature Selection
+### [Evaluating Higher-Order Pointwise Mutual Information for Filter Feature Selection](https://github.com/DucVinhBui/pmi-feature-selection)
 
 My honours thesis investigated whether higher-order statistics of pointwise mutual information (PMI) provide useful relevance signals for feature selection beyond conventional mutual information (MI).
 
@@ -32,6 +38,7 @@ My honours thesis investigated whether higher-order statistics of pointwise mutu
 - Evaluated the methods on **MNIST, Fashion-MNIST, and 20 Newsgroups** across five classifier families.
 - Used leave-one-dataset-out transfer, ablation studies, held-out evaluation, and formal statistical testing.
 - Greedy LASSO improved held-out accuracy by **0.04–0.09** over established MI-filter baselines. A controlled decomposition showed that the gain came from the refined redundancy correction, while higher-order-PMI relevance matched rather than exceeded marginal MI for feature ranking.
+- The public repository provides the core algorithms, a self-contained demonstration, tests, and selected result figures without redistributing thesis datasets or private research artifacts.
 
 `Feature Selection` `Information Theory` `LASSO` `Statistical Evaluation` `scikit-learn` `LightGBM`
 
