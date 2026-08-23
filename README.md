@@ -6,6 +6,8 @@ I am a First Class Honours graduate in Advanced Computing from the University of
 
 I build end-to-end AI products—from data ingestion and machine-learning pipelines to AI agents, backend APIs, databases, and cloud-ready deployment.
 
+[LinkedIn](https://www.linkedin.com/in/vinh-bui-26a8a6255/)
+
 ## Featured Projects
 
 ### [InsightOps AI](https://github.com/DucVinhBui/AI_Analyst_Platform)
@@ -20,6 +22,19 @@ A full-stack RAG application for asking questions about PDFs, with vector retrie
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector` `Sentence Transformers` `Docker`
 
+## Honours Research
+
+### Evaluating Higher-Order Pointwise Mutual Information for Filter Feature Selection
+
+My honours thesis investigated whether higher-order statistics of pointwise mutual information (PMI) provide useful relevance signals for feature selection beyond conventional mutual information (MI).
+
+- Proposed **LASSO-Stab**, a bootstrap-stabilised relevance score, and **Greedy LASSO**, a redundancy-aware feature selector.
+- Evaluated the methods on **MNIST, Fashion-MNIST, and 20 Newsgroups** across five classifier families.
+- Used leave-one-dataset-out transfer, ablation studies, held-out evaluation, and formal statistical testing.
+- Greedy LASSO improved held-out accuracy by **0.04–0.09** over established MI-filter baselines. A controlled decomposition showed that the gain came from the refined redundancy correction, while higher-order-PMI relevance matched rather than exceeded marginal MI for feature ranking.
+
+`Feature Selection` `Information Theory` `LASSO` `Statistical Evaluation` `scikit-learn` `LightGBM`
+
 ## Core Stack
 
 - **AI and ML:** LLMs, RAG, NLP, AI agents, PyTorch, scikit-learn, Hugging Face
@@ -29,9 +44,9 @@ A full-stack RAG application for asking questions about PDFs, with vector retrie
 
 ## AWS Certifications
 
-- AWS Certified Machine Learning Engineer – Associate
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
+- [AWS Certified Machine Learning Engineer – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/08443c9a07bd4aec941b44fc1d6a7fcb)
+- [AWS Certified AI Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/f65d18f232074755ade6c26dd5381f03)
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/b7d65dd6818d4f20a9cda848ca368325)
 
 ## Current Focus
 
