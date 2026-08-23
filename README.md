@@ -16,6 +16,12 @@ A reproducible implementation of my honours research into higher-order pointwise
 
 `Python` `Information Theory` `Feature Selection` `LASSO` `scikit-learn` `Statistical Evaluation`
 
+### [Volatility Forecasting Dashboard](https://github.com/DucVinhBui/optiver-volatility-dashboard)
+
+A code-only portfolio edition of a collaborative industry project comparing Linear Regression, HAR/HAV-RV, ARIMA-GARCH, ARMA-GJR-GARCH, and XGBoost for short-term volatility forecasting, with rolling-window evaluation, stock clustering, and an interactive R Shiny dashboard. No project data or serialized model artifacts are published.
+
+`R` `Shiny` `Time Series` `XGBoost` `GARCH` `Clustering` `Plotly`
+
 ### [InsightOps AI](https://github.com/DucVinhBui/AI_Analyst_Platform)
 
 An autonomous business intelligence platform combining tool-based AI agents, natural-language analytics, forecasting, churn prediction, anomaly detection, and human-approved actions.
